@@ -1,7 +1,7 @@
 ## Hey, RiaLeee here!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
 
-<h1> 👩‍🦰 Welcome to a space for new developers who enjoy full-stack development!</h1> 
+<h1> 👩‍🦰 Welcome to the 1000% immersive space for new developers!</h1> 
 
 <img src = 'https://github.com/MarikIshtar007/arikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
 
@@ -126,8 +126,8 @@
  * 🔭 I’m studied **Java & Python full stack course for 6.5 months**
  * 👯 I’m looking to collaborate on [TripMaven](https://github.com/RiaLeee/03tripMaven_Team)
  * 😛 I implemented a site called '[Textify](https://github.com/RiaLeee/04Textify)' that extracts text from images.
- * 👨‍💻 I'm especially good at [JavaScript, Java and Python.](JavaScript, Java and Python.)
- * 📝 I have deployed using [AWS EC2 server.](AWS EC2 server.)
+ * 👨‍💻 I'm especially good at JavaScript, Java and Python.
+ * 📝 I have deployed using AWS EC2 server.
 
 ## ▶ What you are ✨currently✨ doing
  * 🌱 I’m currently preparing **for the SQLD certification and the information processing engineer certification.**
