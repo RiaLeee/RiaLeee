@@ -97,13 +97,13 @@
  ```python
  class WhoAmI:
  	user = 'Lee Gyu Rim'
-	current_work = 'Preparing for certification & studying code'
-	hobbies = [
-			'Running',
-			'Watching Marvel movies',
-			'Listening to music loudly'
-		  ]
-	nickname = 'Debugger'
+		current_work = 'Preparing for certification & studying code'
+		hobbies = [
+				'Running',
+				'Watching Marvel movies',
+				'Listening to music loudly'
+		  	]
+		nickname = 'Debugger'
 
  	def ambitions(self):
         	self.obtain_certification()
