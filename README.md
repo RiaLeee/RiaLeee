@@ -25,10 +25,10 @@
 <img src="images/Java-Dark.svg" alt="java" width="40" height="40"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
 <img src="images/JavaScript.svg" alt="javascript" width="40" height="40"/></a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-<img src="images/HTML.svg" alt="html5" width="40" height="40"/></a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
 <img src="images/Python-Light.svg" alt="python" width="40" height="40"/></a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+<img src="images/HTML.svg" alt="html5" width="40" height="40"/></a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
 <img src="images/CSS.svg" alt="css3" width="40" height="40"/> </a>
 </div>
@@ -38,13 +38,13 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
 <img src="images/React-Dark.svg" alt="react" width="40" height="40"/></a>
 <a href="https://spring.io/" target="_blank" rel="noreferrer">
-<img src="images/Spring-Light.svg" width="40" height="40"/></a>
+<img src="images/Spring-Light.svg" alt="spring" width="40" height="40"/></a>
 <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
-<img src="images/FastAPI.svg" alt="flask" width="40" height="40"/></a>
+<img src="images/FastAPI.svg" alt="fast" width="40" height="40"/></a>
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
 <img src="images/TensorFlow-Light.svg" alt="tensorflow" width="40" height="40"/></a>
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
+<img src="images/Pandas.svg" alt="pandas" width="40" height="40"/></a>
 </div>
 
 ## Development & Design Tools
@@ -52,7 +52,7 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
 <img src="images/Git.svg" alt="git" width="40" height="40"/></a>
 <a href="https://github.com/" target="_blank" rel="noreferrer">
-<img src="images/Github-Dark.svg" alt="git" width="40" height="40"/></a>
+<img src="images/Github-Dark.svg" alt="github" width="40" height="40"/></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
 <img src="images/Docker.svg" alt="docker" width="40" height="40"/></a>
 <a href="https://postman.com" target="_blank" rel="noreferrer">
@@ -61,6 +61,8 @@
 <img src="images/VSCode.svg" alt="visual studio" width="40" height="40"/></a>
 <a href="https://www.jetbrains.com/pycharm/download/?section=windows/" target="_blank" rel="noreferrer">
 <img src="images/Pycharm.svg" alt="pycharm" width="40" height="40"/></a>
+<a href="https://www.anaconda.com/" target="_blank" rel="noreferrer">
+<img src="images/Anaconda.svg" alt="Anaconda" width="40" height="40"/></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
 <img src="images/Figma.svg" alt="figma" width="40" height="40"/></a>
 </div>
@@ -72,7 +74,7 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
 <img src="images/MySQL-Light.svg" alt="mysql" width="40" height="40"/></a>
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
+<img src="images/AWS-Dark.svg" alt="aws" width="40" height="40"/></a>
 <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
 <img src="images/Nginx.svg" alt="nginx" width="40" height="40"/></a>
 </div>
@@ -80,11 +82,13 @@
 ## Other Technologies
 <div align="left">
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-<img src="images/Bootstrap.svg" alt="linux" width="40" height="40"/></a>
+<img src="images/Linux.svg" alt="linux" width="40" height="40"/></a>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
+<img src="images/Bootstrap.svg" alt="bootstrap" width="40" height="40"/></a>
+<a href="https://mui.com/" target="_blank" rel="noreferrer">
+<img src="images/Mui.svg" alt="mui" width="40" height="40"/></a>
 <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/></a>
+<img src="images/Jekyll.svg" alt="jekyll" width="40" height="40"/></a>
  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
 <img src="images/NodeJS.svg" alt="nodejs" width="40" height="40"/></a>
 </div>
