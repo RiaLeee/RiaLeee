@@ -79,8 +79,6 @@
 
 ## Other Technologies
 <div align="left">
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-<img src="images/Linux.svg" alt="linux" width="40" height="40"/></a>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
 <img src="images/Bootstrap.svg" alt="bootstrap" width="40" height="40"/></a>
 <a href="https://mui.com/" target="_blank" rel="noreferrer">
@@ -89,6 +87,8 @@
 <img src="images/Jekyll.svg" alt="jekyll" width="40" height="40"/></a>
  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
 <img src="images/NodeJS.svg" alt="nodejs" width="40" height="40"/></a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+<img src="images/Linux.svg" alt="linux" width="40" height="40"/></a>
 </div>
 
 
