@@ -2,7 +2,8 @@
 
 <style>
 .no-underline {
-    text-decoration: none !important;
+    	text-decoration: none !important;
+	color: #ffffff !important;
   }
 </style>
   
