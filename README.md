@@ -2,7 +2,7 @@
 
 
   
-<h1>Welcome to my humble abode in the Digital World..</h1> 
+<h1> 🍕Welcome to a space for new developers who enjoy full-stack development!</h1> 
 
 <img src = 'https://github.com/MarikIshtar007/arikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
 
