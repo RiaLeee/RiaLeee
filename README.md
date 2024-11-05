@@ -3,7 +3,7 @@
 
 <h1> 👩‍🦰 Welcome to the 1000% immersive space for new developers!</h1> 
 
-<img src = 'images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
+<img src = 'images/gifs/dino.gif' alt = 'gifDino' align='center'/>
 
 [![Gmail Badge](https://img.shields.io/badge/-gyurim26@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gyurim26@gmail.com)](mailto:gyurim26@gmail.com)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RiaLeee" alt="RiaLeee" /> </p>
