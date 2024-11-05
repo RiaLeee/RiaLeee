@@ -73,42 +73,16 @@
 <img src="images/Nginx.svg" alt="nginx" width="40" height="40"/></a>
 </div>
 
-## Development & Design Tools
-<div align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-<img src="images/Git.svg" alt="git" width="40" height="40"/></a>
-<a href="https://github.com/" target="_blank" rel="noreferrer">
-<img src="images/Github-Dark.svg" alt="git" width="40" height="40"/></a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-<img src="images/Docker.svg" alt="docker" width="40" height="40"/></a>
-<a href="https://postman.com" target="_blank" rel="noreferrer">
-<img src="images/Postman.svg" alt="postman" width="40" height="40"/></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-<img src="images/Figma.svg" alt="figma" width="40" height="40"/></a>
-</div>
-
-## Databases & Servers
-<div align="left">
-<a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-<img src="images/oracle.svg" alt="oracle" width="40" height="40"/></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
-<a href="https://www.nginx.com" target="_blank" rel="noreferrer">
-<img src="images/Nginx.svg" alt="nginx" width="40" height="40"/></a>
-</div>
-
 ## Other Technologies
 <div align="left">
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-<img src="images/Bootstrap.svg" alt="linux" width="40" height="40"/> </a>
+<img src="images/Bootstrap.svg" alt="linux" width="40" height="40"/></a>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
 <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a>
+<img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/></a>
  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-<img src="images/NodeJS.svg" alt="nodejs" width="40" height="40"/> </a>
+<img src="images/NodeJS.svg" alt="nodejs" width="40" height="40"/></a>
 </div>
 
 
