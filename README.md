@@ -139,5 +139,5 @@
 ## <img src = 'images/gifs/Developer.gif' alt = 'developer' width="30px" height="30px"/> what will happen in the ✨future✨
  * In the future, I want to become a **professional full-stack developer** with a lot of **followership**.
 
- <img src = 'images/gifs/Handshake.gif' alt = 'handshake' align = 'center' />
+ <img src = 'images/gifs/Handshake.gif' alt = 'handshake' align = 'right' />
 
