@@ -139,6 +139,8 @@
 ## <img src = 'images/gifs/Developer.gif' alt = 'developer' width="30px" height="30px"/> what will happen in the ✨future✨
  * In the future, I want to become a **professional full-stack developer** with a lot of **followership**.
 
+
+## Github Stats
  <img src = 'images/gifs/Handshake.gif' alt = 'handshake' align = 'right' />
 	 
 ![RiaLeee's github stats](https://github-readme-stats.vercel.app/api?username=RiaLeee&show_icons=true&hide=[%22issues%22])
