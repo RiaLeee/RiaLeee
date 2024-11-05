@@ -121,25 +121,20 @@
     	def achieve_my_git_fork_a_lot(self):
         	print("Achieving my Git fork to over 10,000...")
  ```
-
-## What has been done ✨before✨
+ 
+## ▶ What has been done ✨before✨
  * 🔭 I’m studied **Java & Python full stack course for 6.5 months**
  * 👯 I’m looking to collaborate on [TripMaven](https://github.com/RiaLeee/03tripMaven_Team)
- * 😛 I implemented a site called '[Textify]' that extracts text from images.(https://github.com/RiaLeee/04Textify)
+ * 😛 I implemented a site called ['Textify'](https://github.com/RiaLeee/04Textify) that extracts text from images.
  * 👨‍💻 I'm especially good at [JavaScript, Java and Python.](JavaScript, Java and Python.)
  * 📝 I have deployed using [AWS EC2 server.](AWS EC2 server.)
 
-## What you are ✨currently✨ doing
+## ▶ What you are ✨currently✨ doing
  * 🌱 I’m currently preparing **for the SQLD certification and the information processing engineer certification.**
  * ⚡ I have the best time **when I'm coding.**
- * 🔥 I'm ready to [dive into coding.](dive into coding.)
+ * 🔥 I'm ready to **dive into coding.**
 
-## what will happen in the ✨future✨
+## ▶ what will happen in the ✨future✨
  * In the future, I want to become a **professional full-stack developer** with a lot of **followership**.
- 
-## Other Stuff
-  - :octocat: [My Resume](https://drive.google.com/file/d/1tFL1gHFPw3MXzfW98oQEFjs2jQSGiVjw/view?usp=share_link)
-  - If you have any suggestions to this README, feel free to pull up a request. And if you liked it, go ahead and use it for yourself.(P.S. Star it too!! :grimacing: )
 
-![Haany's github stats](https://github-readme-stats.vercel.app/api?username=RiaLeee&show_icons=true&hide=[%22issues%22])
  
