@@ -93,7 +93,7 @@
 
 
  
- ## Who am I?
+ ## <img src = 'images/gifs/Developer.gif' alt = 'developer' width="30px" height="30px"/> Who am I?
  ```python
  class WhoAmI:
  	user = 'Lee Gyu Rim'
