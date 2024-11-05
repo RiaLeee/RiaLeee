@@ -44,49 +44,59 @@
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
 <img src="images/TensorFlow-Light.svg" alt="tensorflow" width="40" height="40"/></a>
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>0
-</div>
-
-
-## Frameworks & Libraries
-<div align="left">
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-<img src="images/React-Dark.svg" alt="react" width="40" height="40"/></a>
-<a href="https://spring.io/" target="_blank" rel="noreferrer">
-<img src="images/Spring-Light.svg" width="40" height="40"/></a>
-<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
-<img src="images/FastAPI.svg" alt="flask" width="40" height="40"/></a>
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-<img src="images/TensorFlow-Light.svg" alt="tensorflow" width="40" height="40"/></a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
 </div>
-
 
 ## Development & Design Tools
 <div align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-<img src="images/Git.svg" alt="git" width="40" height="40"/> </a>
+<img src="images/Git.svg" alt="git" width="40" height="40"/></a>
 <a href="https://github.com/" target="_blank" rel="noreferrer">
-<img src="images/Github-Dark.svg" alt="git" width="40" height="40"/> </a>
+<img src="images/Github-Dark.svg" alt="git" width="40" height="40"/></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-<img src="images/Docker.svg" alt="docker" width="40" height="40"/> </a>
+<img src="images/Docker.svg" alt="docker" width="40" height="40"/></a>
 <a href="https://postman.com" target="_blank" rel="noreferrer">
-<img src="images/Postman.svg" alt="postman" width="40" height="40"/> </a>
+<img src="images/Postman.svg" alt="postman" width="40" height="40"/></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-<img src="images/Figma.svg" alt="figma" width="40" height="40"/> </a>
+<img src="images/Figma.svg" alt="figma" width="40" height="40"/></a>
 </div>
 
 ## Databases & Servers
 <div align="left">
 <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-<img src="images/oracle.svg" alt="oracle" width="40" height="40"/> </a>
+<img src="images/oracle.svg" alt="oracle" width="40" height="40"/></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
 <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
-<img src="images/Nginx.svg" alt="nginx" width="40" height="40"/> </a>
+<img src="images/Nginx.svg" alt="nginx" width="40" height="40"/></a>
+</div>
+
+## Development & Design Tools
+<div align="left">
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+<img src="images/Git.svg" alt="git" width="40" height="40"/></a>
+<a href="https://github.com/" target="_blank" rel="noreferrer">
+<img src="images/Github-Dark.svg" alt="git" width="40" height="40"/></a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+<img src="images/Docker.svg" alt="docker" width="40" height="40"/></a>
+<a href="https://postman.com" target="_blank" rel="noreferrer">
+<img src="images/Postman.svg" alt="postman" width="40" height="40"/></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+<img src="images/Figma.svg" alt="figma" width="40" height="40"/></a>
+</div>
+
+## Databases & Servers
+<div align="left">
+<a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
+<img src="images/oracle.svg" alt="oracle" width="40" height="40"/></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
+<a href="https://www.nginx.com" target="_blank" rel="noreferrer">
+<img src="images/Nginx.svg" alt="nginx" width="40" height="40"/></a>
 </div>
 
 ## Other Technologies
