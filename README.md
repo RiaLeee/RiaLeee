@@ -1,7 +1,7 @@
 ## Hey, RiaLeee here!  <img src="images/gifs/Hi.gif" width="28px" height="28px">
 
 
-<h1> 👩‍🦰 Welcome to the 1000% immersive space for new developers!</h1> 
+<h1> <img src = 'images/gifs/Mario_Hello_Big.gif' alt = 'marioBig' width="28px" height="28px"/> 👩‍🦰 Welcome to the 1000% immersive space for new developers!</h1> 
 
 [![Gmail Badge](https://img.shields.io/badge/-gyurim26@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gyurim26@gmail.com)](mailto:gyurim26@gmail.com)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RiaLeee" alt="RiaLeee" /> </p>
