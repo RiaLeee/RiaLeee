@@ -11,9 +11,9 @@
 <div style="text-align: right">There are 10 types of people in the world. Those who get Binary and those who don't.. </div>
 
 ## :computer: Technologies I Love
-* Machine Learning
-* Data Science
-* Frontend and Backend Web Development
+ * Frontend and Backend Web Development
+ * Data Science
+ * Machine Learning
 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=RiaLeee&layout=compact">
 
@@ -125,7 +125,7 @@
 ## ▶ What has been done ✨before✨
  * 🔭 I’m studied **Java & Python full stack course for 6.5 months**
  * 👯 I’m looking to collaborate on [TripMaven](https://github.com/RiaLeee/03tripMaven_Team)
- * 😛 I implemented a site called ['Textify'](https://github.com/RiaLeee/04Textify) that extracts text from images.
+ * 😛 I implemented a site called '[Textify](https://github.com/RiaLeee/04Textify)' that extracts text from images.
  * 👨‍💻 I'm especially good at [JavaScript, Java and Python.](JavaScript, Java and Python.)
  * 📝 I have deployed using [AWS EC2 server.](AWS EC2 server.)
 
