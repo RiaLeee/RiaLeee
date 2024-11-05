@@ -1,4 +1,4 @@
-## Hey, RiaLeee here!  <img src="images/gifs/Hi.giff" width="28px" height="28px">
+## Hey, RiaLeee here!  <img src="images/gifs/Hi.gif" width="28px" height="28px">
 
 
 <h1> 👩‍🦰 Welcome to the 1000% immersive space for new developers!</h1> 
@@ -119,8 +119,6 @@
     	def achieve_my_git_fork_a_lot(self):
         	print("Achieving my Git fork to over 10,000...")
  ```
-
-<img src = 'images/gifs/dino.gif' alt = 'gifDino' align='center'/>
  
 ## ▶ What has been done ✨before✨
  * 🔭 I’m studied **Java & Python full stack course for 6.5 months**
@@ -128,6 +126,8 @@
  * 😛 I implemented a site called '[Textify](https://github.com/RiaLeee/04Textify)' that extracts text from images.
  * 👨‍💻 I'm especially good at JavaScript, Java and Python.
  * 📝 I have deployed using AWS EC2 server.
+
+<img src = 'images/gifs/dino.gif' alt = 'gifDino' align='center'/>
 
 ## ▶ What you are ✨currently✨ doing
  * 🌱 I’m currently preparing **for the SQLD certification and the information processing engineer certification.**
