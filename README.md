@@ -117,10 +117,21 @@
 		# Assume 10 more awesome ambitions here  ;)
 	
  ```
- 
-## Current Works
- * Breaking into Cybersec !!
- * I'm currently working on 🔭 building **Mobile Apps using Flutter** and working up on polishing my skills 🌱 in **Competitive Programming**.
+
+## What has been done ✨before✨
+ * 🔭 I’m studied **Java & Python full stack course for 6.5 months**
+ * 👯 I’m looking to collaborate on [TripMaven](https://github.com/RiaLeee/03tripMaven_Team)
+ * 😛 I implemented a site [that extracts text from images.](https://github.com/RiaLeee/04Textify)
+ * 👨‍💻 I'm especially good at [JavaScript, Java and Python.](JavaScript, Java and Python.)
+ * 📝 I have deployed using [AWS EC2 server.](AWS EC2 server.)
+
+## What you are ✨currently✨ doing
+ * 🌱 I’m currently preparing **for the SQLD certification and the information processing engineer certification.**
+ * ⚡ I have the best time **when I'm coding.**
+ * 🔥 I'm ready to [dive into coding.](dive into coding.)
+
+## what will happen in the ✨future✨
+ * In the future, I want to become a **professional full-stack developer** with a lot of **followership**.
  
 ## Other Stuff
   - :octocat: [My Resume](https://drive.google.com/file/d/1tFL1gHFPw3MXzfW98oQEFjs2jQSGiVjw/view?usp=share_link)
