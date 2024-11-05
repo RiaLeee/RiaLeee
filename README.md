@@ -2,7 +2,7 @@
 
 
   
-<h1> 🍕Welcome to a space for new developers who enjoy full-stack development!</h1> 
+<h1> 👩‍🦰 Welcome to a space for new developers who enjoy full-stack development!</h1> 
 
 <img src = 'https://github.com/MarikIshtar007/arikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
 
@@ -70,7 +70,7 @@
 ## Databases & Servers
 <div align="left">
 <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-<img src="images/oracle.svg" alt="oracle" width="40" height="40"/></a>
+<img src="images/Oracle.svg" alt="oracle" width="40" height="40"/></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
 <img src="images/MySQL-Light.svg" alt="mysql" width="40" height="40"/></a>
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
