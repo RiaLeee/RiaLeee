@@ -79,6 +79,8 @@
 
 ## Other Technologies
 <div align="left">
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+<img src="images/Linux.svg" alt="linux" width="40" height="40"/></a>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
 <img src="images/Bootstrap.svg" alt="bootstrap" width="40" height="40"/></a>
 <a href="https://mui.com/" target="_blank" rel="noreferrer">
@@ -87,13 +89,11 @@
 <img src="images/Jekyll.svg" alt="jekyll" width="40" height="40"/></a>
  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
 <img src="images/NodeJS.svg" alt="nodejs" width="40" height="40"/></a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-<img src="images/Linux.svg" alt="linux" width="40" height="40"/></a>
 </div>
 
 
  
- ## <img src = 'images/gifs/Developer.gif' alt = 'developer' width="30px" height="30px"/> Who am I?
+ ## Who am I?
  ```python
  class WhoAmI:
  	user = 'Lee Gyu Rim'
@@ -122,7 +122,7 @@
         	print("Achieving my Git fork to over 10,000...")
  ```
  
-## ▶ What has been done ✨before✨
+## What has been done ✨before✨
  * 🔭 I’m studied **Java & Python full stack course for 6.5 months**
  * 👯 I’m looking to collaborate on [TripMaven](https://github.com/RiaLeee/03tripMaven_Team)
  * 😛 I implemented a site called '[Textify](https://github.com/RiaLeee/04Textify)' that extracts text from images.
@@ -131,12 +131,12 @@
 
 <img src = 'images/gifs/dino.gif' alt = 'gifDino' align='center'/>
 
-## ▶ What you are ✨currently✨ doing
+## What you are ✨currently✨ doing
  * 🌱 I’m currently preparing **for the SQLD certification and the information processing engineer certification.**
  * ⚡ I have the best time **when I'm coding.**
  * 🔥 I'm ready to **dive into coding.**
 
-## ▶ what will happen in the ✨future✨
+## <img src = 'images/gifs/Developer.gif' alt = 'developer' width="30px" height="30px"/> what will happen in the ✨future✨
  * In the future, I want to become a **professional full-stack developer** with a lot of **followership**.
 
  
