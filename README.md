@@ -1,5 +1,11 @@
 ## Hey, [RiaLeee here!](https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
+ <style>
+    .no-underline a {
+      text-decoration: none !important;
+    }
+  </style>
+  
 <h1>Welcome to my humble abode in the Digital World..</h1> 
 
 <img src = 'https://github.com/MarikIshtar007/arikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
@@ -18,17 +24,17 @@
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=RiaLeee&layout=compact">
 
 ## Programming Languages
-<p align="left">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer" style="text-decoration-line: none;">
+<p align="left" class="no-underline">
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="text-decoration-line: none;">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="text-decoration-line: none;">
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer" style="text-decoration-line: none;">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer" >
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
 </p>
