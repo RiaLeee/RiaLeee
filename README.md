@@ -1,13 +1,10 @@
 ## Hey, [RiaLeee here!](https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
-
-  
 <h1> 👩‍🦰 Welcome to a space for new developers who enjoy full-stack development!</h1> 
 
 <img src = 'https://github.com/MarikIshtar007/arikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
 
 [![Gmail Badge](https://img.shields.io/badge/-gyurim26@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gyurim26@gmail.com)](mailto:gyurim26@gmail.com)
-[![instagram](https://img.shields.io/badge/-The%20Broke%20Coder-c14438?style=flat-square&logo=Instagram&link=https://instagram.com/rbfla.2)](https://instagram.com/rbfla.2)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RiaLeee" alt="RiaLeee" /> </p>
 
 <div style="text-align: right">There are 10 types of people in the world. Those who get Binary and those who don't.. </div>
@@ -99,29 +96,35 @@
  ```python
  class WhoAmI:
  	user = 'Lee Gyu Rim'
-		current_work = 'Writing code'
-		hobbies = [
-				'Drawing',
-				'Watching Marvel movies',
-				'Reading Sci-Fi Novels'
-				'Being up all Night chasing that ONE BUG...'
-			]
-	
-	def getCity():
-		return Vancouver_Canada()
-	
-	def Ambitions():
-		LearnJapanese()
-		CreateSkyNet()
-		FinishMyNovel()
-		# Assume 10 more awesome ambitions here  ;)
-	
+	current_work = 'Preparing for certification & studying code'
+	hobbies = [
+			'Running',
+			'Watching Marvel movies',
+			'Listening to music loudly'
+		  ]
+	nickname = 'Debugger'
+
+ 	def ambitions(self):
+        	self.obtain_certification()
+      	  	self.create_easy_maintenance_sw()
+      	  	self.achieve_my_git_fork_a_lot()
+       	 	# Deadline: Somewhere in 2034 :)
+
+    	def obtain_certification(self):
+        	print("Possessing 5 or more coding-related certifications...")
+
+    	def create_easy_maintenance_sw(self):
+        	print("Elaborating initial construction")
+        	print("In addition to providing readable code guidance...")
+
+    	def achieve_my_git_fork_a_lot(self):
+        	print("Achieving my Git fork to over 10,000...")
  ```
 
 ## What has been done ✨before✨
  * 🔭 I’m studied **Java & Python full stack course for 6.5 months**
  * 👯 I’m looking to collaborate on [TripMaven](https://github.com/RiaLeee/03tripMaven_Team)
- * 😛 I implemented a site [that extracts text from images.](https://github.com/RiaLeee/04Textify)
+ * 😛 I implemented a site called '[Textify]' that extracts text from images.(https://github.com/RiaLeee/04Textify)
  * 👨‍💻 I'm especially good at [JavaScript, Java and Python.](JavaScript, Java and Python.)
  * 📝 I have deployed using [AWS EC2 server.](AWS EC2 server.)
 
