@@ -3,8 +3,7 @@
 
 <h1> 👩‍🦰 Welcome to the 1000% immersive space for new developers!</h1> 
 
-<img src = 'https://github.com/MarikIshtar007/arikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
-<div class="tenor-gif-embed" data-postid="21481919" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/cat-typing-typing-on-computer-computer-work-laptop-gif-21481919">Cat Typing GIF</a>from <a href="https://tenor.com/search/cat-gifs">Cat GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img src = 'images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
 
 [![Gmail Badge](https://img.shields.io/badge/-gyurim26@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gyurim26@gmail.com)](mailto:gyurim26@gmail.com)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RiaLeee" alt="RiaLeee" /> </p>
