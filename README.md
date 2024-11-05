@@ -142,5 +142,5 @@
 
 ## Github Stats
  <img src = 'images/gifs/Handshake.gif' alt = 'handshake' align = 'right' />
-	 
+ * Join Day : 2024.06.16	 
 ![RiaLeee's github stats](https://github-readme-stats.vercel.app/api?username=RiaLeee&show_icons=true&hide=[%22issues%22])
