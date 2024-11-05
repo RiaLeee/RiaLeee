@@ -57,6 +57,10 @@
 <img src="images/Docker.svg" alt="docker" width="40" height="40"/></a>
 <a href="https://postman.com" target="_blank" rel="noreferrer">
 <img src="images/Postman.svg" alt="postman" width="40" height="40"/></a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+<img src="images/VSCode.svg" alt="visual studio" width="40" height="40"/></a>
+<a href="https://www.jetbrains.com/pycharm/download/?section=windows/" target="_blank" rel="noreferrer">
+<img src="images/Pycharm.svg" alt="pycharm" width="40" height="40"/></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
 <img src="images/Figma.svg" alt="figma" width="40" height="40"/></a>
 </div>
@@ -66,7 +70,7 @@
 <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
 <img src="images/oracle.svg" alt="oracle" width="40" height="40"/></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
+<img src="images/MySQL-Light.svg" alt="mysql" width="40" height="40"/></a>
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
 <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
