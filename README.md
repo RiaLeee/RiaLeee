@@ -3,7 +3,7 @@
 
 <h1> <img src = 'images/gifs/happy.gif' alt = 'happy' width="30px" height="30px"/> Welcome to the 1000% immersive space for new developers!</h1> 
 
-<img src = 'images/gifs/person.gif' alt = 'person' align = 'right' />
+<img src = 'images/gifs/gandalf_parrot.gif' alt = 'person' align = 'right' />
 
 [![Gmail Badge](https://img.shields.io/badge/-gyurim26@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gyurim26@gmail.com)](mailto:gyurim26@gmail.com)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RiaLeee" alt="RiaLeee" /> </p>
