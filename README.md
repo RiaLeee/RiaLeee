@@ -35,6 +35,7 @@
 
 
 
+
  ## Frameworks & Libraries
  <img src = 'https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg' width='30'/>  <img src = 'https://www.vectorlogo.zone/logos/springio/springio-icon.svg' height='40'/><img src = 'https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg' width='30'/> <img src = 'https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg' height='40'/> <img src = 'https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg' width='30'/><a href="https://www.python.org" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
