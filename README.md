@@ -1,9 +1,7 @@
-## Hey, RiaLeee here!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
+## Hey, RiaLeee here!  <img src="images/gifs/Hi.giff" width="28px" height="28px">
 
 
 <h1> 👩‍🦰 Welcome to the 1000% immersive space for new developers!</h1> 
-
-<img src = 'images/gifs/dino.gif' alt = 'gifDino' align='center'/>
 
 [![Gmail Badge](https://img.shields.io/badge/-gyurim26@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gyurim26@gmail.com)](mailto:gyurim26@gmail.com)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RiaLeee" alt="RiaLeee" /> </p>
@@ -121,6 +119,8 @@
     	def achieve_my_git_fork_a_lot(self):
         	print("Achieving my Git fork to over 10,000...")
  ```
+
+<img src = 'images/gifs/dino.gif' alt = 'gifDino' align='center'/>
  
 ## ▶ What has been done ✨before✨
  * 🔭 I’m studied **Java & Python full stack course for 6.5 months**
