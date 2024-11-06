@@ -147,3 +147,5 @@
 
 # 🚀 My Blog _Latest Posts
 <!-- Latest Post Link -->
+- [Latest Post](https://rialeee.github.io/2024-11-06-my-latest-post)
+
