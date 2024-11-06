@@ -145,7 +145,7 @@
  
 ![RiaLeee's github stats](https://github-readme-stats.vercel.app/api?username=RiaLeee&show_icons=true&hide=[%22issues%22])
 
-# 🚀 My Blog _Latest Posts
+## 🚀 My Blog
 <!-- Latest Post Link -->
 - [Lia의 개발 블로그🔥 보러가기](https://rialeee.github.io/)
 
