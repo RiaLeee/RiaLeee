@@ -147,5 +147,5 @@
 
 # 🚀 My Blog _Latest Posts
 <!-- Latest Post Link -->
-- [Latest Post](https://rialeee.github.io/posts/)
+- [Lia의 개발 블로그🔥 보러가기](https://rialeee.github.io/)
 
