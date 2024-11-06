@@ -145,8 +145,5 @@
  
 ![RiaLeee's github stats](https://github-readme-stats.vercel.app/api?username=RiaLeee&show_icons=true&hide=[%22issues%22])
 
-# My Blog
-
-## Latest Posts
-
+# 🚀 My Blog _Latest Posts
 <!-- Latest Post Link -->
