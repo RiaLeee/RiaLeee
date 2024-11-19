@@ -92,7 +92,9 @@
 <img src="images/NodeJS.svg" alt="nodejs" width="40" height="40"/></a>
 </div>
 
-
+## 🚀 My Blog
+<!-- Latest Post Link -->
+- [Lia의 개발 블로그🔥 보러가기](https://rialeee.github.io/)
  
  ## Who am I?
  ```python
@@ -145,8 +147,4 @@
  <img src = 'images/gifs/Handshake.gif' alt = 'handshake' align = 'right' />
  
 ![RiaLeee's github stats](https://github-readme-stats.vercel.app/api?username=RiaLeee&show_icons=true&hide=[%22issues%22])
-
-## 🚀 My Blog
-<!-- Latest Post Link -->
-- [Lia의 개발 블로그🔥 보러가기](https://rialeee.github.io/)
 
