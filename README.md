@@ -18,6 +18,10 @@
 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=RiaLeee&layout=compact">
 
+## 🚀 My Blog
+<!-- Latest Post Link -->
+- [Lia의 개발 블로그🔥 보러가기](https://rialeee.github.io/)
+
 ## Programming Languages
 <div align="left">
 <a href="https://www.java.com" target="_blank" rel="noreferrer">
@@ -92,9 +96,6 @@
 <img src="images/NodeJS.svg" alt="nodejs" width="40" height="40"/></a>
 </div>
 
-## 🚀 My Blog
-<!-- Latest Post Link -->
-- [Lia의 개발 블로그🔥 보러가기](https://rialeee.github.io/)
  
  ## Who am I?
  ```python
