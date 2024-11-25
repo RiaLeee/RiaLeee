@@ -116,14 +116,14 @@
        	 	# Deadline: Somewhere in 2034 :)
 
     	def obtain_certification(self):
-        	print("Possessing 5 or more coding-related certifications...")
+        		print("Possessing 5 or more coding-related certifications...")
 
     	def create_easy_maintenance_sw(self):
-        	print("Elaborating initial construction")
-        	print("In addition to providing readable code guidance...")
+        		print("Elaborating initial construction")
+        		print("In addition to providing readable code guidance...")
 
     	def achieve_my_git_fork_a_lot(self):
-        	print("Achieving my Git fork to over 10,000...")
+        		print("Achieving my Git fork to over 10,000...")
  ```
 
 ## Github Stats
