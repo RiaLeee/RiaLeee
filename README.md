@@ -11,10 +11,7 @@
 <!--
 <div style="text-align: right">There are 10 types of people in the world. Those who get Binary and those who don't.. </div>
 
- ## :computer: Technologies I Love  -->
- * Frontend and Backend Web Development
- * Data Science
- * Machine Learning
+
 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=RiaLeee&layout=compact">
 
