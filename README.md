@@ -11,14 +11,16 @@
 <!--
 <div style="text-align: right">There are 10 types of people in the world. Those who get Binary and those who don't.. </div>
 
-
-
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=RiaLeee&layout=compact">
 
 ## 🚀 My Blog
 <!-- Latest Post Link -->
 - [Lia의 개발 블로그🔥 보러가기](https://rialeee.github.io/)
 
+ ## :computer: Technologies I Love  -->
+ * Frontend and Backend Web Development
+ * Data Science
+ * Machine Learning
 
 ## Programming Languages
 <div align="left">
