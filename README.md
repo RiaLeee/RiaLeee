@@ -13,14 +13,15 @@
 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=RiaLeee&layout=compact">
 
-## 🚀 My Blog
-<!-- Latest Post Link -->
-- [Lia의 개발 블로그🔥 보러가기](https://rialeee.github.io/)
-
  ## :computer: Technologies I Love  -->
  * Frontend and Backend Web Development
  * Data Science
  * Machine Learning
+
+## 🚀 My Blog
+<!-- Latest Post Link -->
+- [Lia의 개발 블로그🔥 보러가기](https://rialeee.github.io/)
+- 
 
 ## Programming Languages
 <div align="left">
