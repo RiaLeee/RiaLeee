@@ -13,7 +13,7 @@
 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=RiaLeee&layout=compact">
 
- ## :computer: Technologies I Love  -->
+ ## Technologies I Love  -->
  * Frontend and Backend Web Development
  * Data Science
  * Machine Learning
