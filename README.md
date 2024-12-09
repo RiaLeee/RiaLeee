@@ -75,8 +75,6 @@
 <div align="left">
 <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
 <img src="images/Oracle.svg" alt="oracle" width="40" height="40"/></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-<img src="images/MySQL-Light.svg" alt="mysql" width="40" height="40"/></a>
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
 <img src="images/AWS-Dark.svg" alt="aws" width="40" height="40"/></a>
 <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
