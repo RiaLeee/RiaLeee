@@ -1,6 +1,5 @@
 ## Welcome to Gyurim’s GitHub  <img src="images/gifs/Hi.gif" width="28px" height="28px">
 
-
 <!-- <h1> <img src = 'images/gifs/happy.gif' alt = 'happy' width="30px" height="30px"/> Welcome to the 1000% immersive space for new developers!</h1> -->
 
 <img src = 'images/gifs/matrix.gif' alt = 'person' align = 'right' />
@@ -8,11 +7,9 @@
 [![Gmail Badge](https://img.shields.io/badge/-gyurim26@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gyurim26@gmail.com)](mailto:gyurim26@gmail.com)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RiaLeee" alt="RiaLeee" /> </p>
 
-
 <!--
 <div style="text-align: right">There are 10 types of people in the world. Those who get Binary and those who don't.. </div>
 -->
-
 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=RiaLeee&layout=compact">
 
