@@ -71,7 +71,7 @@
 <img src="images/Figma.svg" alt="figma" width="40" height="40"/></a>
 </div>
 
-## Databases & Servers 
+## Databases & Servers
 <div align="left">
 <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
 <img src="images/Oracle.svg" alt="oracle" width="40" height="40"/></a>
