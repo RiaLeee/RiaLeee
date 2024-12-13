@@ -7,7 +7,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-gyurim26@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gyurim26@gmail.com)](mailto:gyurim26@gmail.com)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RiaLeee" alt="RiaLeee" /> </p> 
  
-<!--
+<!-- 
 <div style="text-align: right">There are 10 types of people in the world. Those who get Binary and those who don't.. </div>
 -->   
  
