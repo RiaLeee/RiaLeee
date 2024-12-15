@@ -49,7 +49,7 @@
 <img src="images/TensorFlow-Light.svg" alt="tensorflow" width="40" height="40"/></a>
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
 <img src="images/Pandas.svg" alt="pandas" width="40" height="40"/></a>
-</div>
+</div> 
 
 ## Development & Design Tools
 <div align="left">
