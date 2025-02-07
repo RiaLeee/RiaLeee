@@ -21,7 +21,8 @@
 
 ## 🚀 My Blog
 - [Lia의 개발 블로그🔥 보러가기](https://rialeee.github.io/)
-  
+- [이것저것 기록용 블로그🔥 보러가기](https://karen-story.tistory.com/)
+
  
 ## Programming Languages
 <div align="left">
